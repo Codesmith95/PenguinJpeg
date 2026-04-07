@@ -3,4 +3,4 @@ A resource pack by me that literally just replaces all the textures I can find t
 
 I’m sorry.
 
-As of v3.0, I've moved over to GitHub with my largest update yet. Stay tuned for the Text Update!
+v4.0 is out, bringing with it a total replacement of all strings in the game! I think.
